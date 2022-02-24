@@ -1,0 +1,115 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+
+
+
+
+.navbar-brand{
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.container-fluid{
+    /* height: 60px; */
+    background-color: #7952b3;
+}
+.mb-4{
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem;
+    letter-spacing: 5px;
+    font-weight: 300;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+}
+
+.col-lg-7{
+    align-items: flex-end;
+}
+.btn1{
+    border-radius: .25rem !important;
+    z-index: 10 !important;
+    display: block !important;
+    padding: 0.25rem 0.5rem !important;
+    font-size: .65em !important;
+    color: #0d6efd !important;
+    background-color: #fff !important;
+    border: 1px solid !important;
+    
+}
+.btn2{
+    border-radius: .25rem !important;
+    z-index: 10 !important;
+    display: block !important;
+    padding: 0.25rem 0.5rem !important;
+    font-size: .65em !important;
+    color: #0d6efd !important;
+    background-color: #fff !important;
+    border: 1px solid !important;  
+}
+
+.vector1{
+    background-color:white;
+}
+
+.vector2{
+    color: white;
+    width: 32;
+    height: 32;
+    padding: 10px;
+    border-radius:10px;
+    background-color:#309365;
+}
+.vector3{
+    padding: 10px;
+    border-radius:10px;
+    background-color:#267dfd;
+}
+.vector4{
+    padding: 10px;
+    border-radius:10px;
+    background-color:#8966bc;
+}
+.vector5{
+    padding: 10px;
+    border-radius:10px;
+    background-color:#df4857;
+}
+
+
+
+.foot ul:hover{
+    text-decoration: underline;
+     cursor: pointer;
+}
+
+.row.d-flex{
+    margin-top: 100px;
+}
+
+.container-fluid-lg-8{
+    width:60%;
+    height: auto;
+}
+.bi bi-bootstrap fs-2{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.bi bi-bootstrap{
+    font-size: 25px;
+}
+.navbar-brand{
+    font-size: x-large;
+}
